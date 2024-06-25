@@ -6,5 +6,7 @@
                  name="Zufall Labs"
                  start-page="home.md">
 
-    <toc-element topic="home.md"/>
+    <toc-element topic="home.md">
+        <toc-element topic="Getting-started.md"/>
+    </toc-element>
 </instance-profile>
