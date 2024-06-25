@@ -2,7 +2,17 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <footer>
+        <copyright>2024 Zufall Labs</copyright>
+    </footer>
+    <variables>
+        <primary-color>strawberry</primary-color>
+        <custom-favicons>favicon.png</custom-favicons>
+        <header-logo>zufall-trans.png</header-logo>
+        <download-title>Visit us on GitHub</download-title>
+        <download-page>https://github.com/zufall-labs</download-page>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
     <build-profile instance="zl">
         <variables>
             <noindex-content>true</noindex-content>
